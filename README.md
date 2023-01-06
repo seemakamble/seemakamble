@@ -1,5 +1,5 @@
 
-<!--![](https://github.com/seemakamble/seemakamble/blob/master/banner.png)-->
+![](https://github.com/seemakamble/seemakamble/blob/master/banner.png)
 <p align="center"> <h1 align="center"> Hi, I am Seema Kamble <img src="https://raw.githubusercontent.com/seemakamble/seemakamble/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<!-- [![Seema's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seemakamble&theme=tokyonight)](https://github.com/seemakamble/github-readme-stats)-->
+[![Seema's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seemakamble&theme=tokyonight)](https://github.com/seemakamble/github-readme-stats)
 <!-- *** -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
@@ -92,14 +92,14 @@ No Activity Tracked This Week
 
 -  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
 
-<!-- -  📫 How to reach me:
+-  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Seema-Kamble-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seema-kamble-a042b4199/)
 [![Instagram](https://img.shields.io/badge/-seemask6477-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/seemask6477/)
-[![Gmail](https://img.shields.io/badge/-Seema-Kamble-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:seemakamble590@gmail.com) -->
+[![Gmail](https://img.shields.io/badge/-Seema-Kamble-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:seemakamble590@gmail.com)
 
 ***
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=seemakamble&theme=react-dark&hide_border=true&area=true) -->
+![](https://activity-graph.herokuapp.com/graph?username=seemakamble&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
 
