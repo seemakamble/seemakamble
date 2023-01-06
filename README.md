@@ -5,7 +5,7 @@
          height="45"
          width="45" /></h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/seema-kamble-a042b4199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <!-- <a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a> -->
 <!-- <a href="https://www.hackerrank.com/imkashyap"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="https://twitter.com/imkashyap_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> -->
@@ -88,13 +88,12 @@ No Activity Tracked This Week
 
 -  💬 Ask me about HTML, CSS, Firebase, Javascript, OOPS, React, DBMS ,Data Structures & Algorithms.
 
--  😄 Pronouns: He/His
+-  😄 Pronouns: She/Her
 
 -  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
 
 <!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
+[![LinkedIn](https://img.shields.io/badge/-Seema-Kamble-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seema-kamble-a042b4199/)
 [![Instagram](https://img.shields.io/badge/-seemask6477-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/seemask6477/)
 [![Gmail](https://img.shields.io/badge/-Seema-Kamble-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:seemakamble590@gmail.com) -->
 
